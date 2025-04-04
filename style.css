@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.page1 {
+    width: 100%;
+    height: 1917px;
+    margin: auto;
+    border: none;
+}
+.page2 {
+    width: 100%;
+    height: 832px;
+    margin: auto;
+    border: none;
+}
+.page3 {
+    width: 100%;
+    height: 1024px;
+    margin: auto;
+    border: none;
+}
+.page4 {
+    width: 100%;
+    height: 1024px;
+    margin: auto;
+    border: none;
+}
+.background {
+    background: url('background.png') no-repeat center;
+    height: 736px;
+    background-size: cover;
+    color: white;
+    font-size: 24px;
+    padding: 100px;
+}
+td {
+    padding: 15px;
+    text-align: Entre em Contato; 
+    vertical-align: middle;
+    text-align: center;
+}
+.header {
+    background-color: #1E1E1E;
+    color: white;
+    font-size: 18px;
+    padding: 15px;
+}
+.banner {
+    background: url('banner-image.png') no-repeat center;
+    height: 517px;
+    background-size: cover;
+    color: white;
+    font-size: 24px;
+    padding: 100px;
+}
+.footer {
+    background-color: #1E1E1E;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    font-size: 16px;
+}
+.intel {
+    background-image: url(Rectangle\ 38.png);
+}
+.amd{
+    background-image: url(Rectangle\ 38.png);
+}
+button {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+input {
+    padding: 10px;
+    width: 250px;
+}
+.quemsomos{
+    text-align: left;
+}
+.valores {
+    text-align: left;
+}
+.txtvalore {
+    text-align: left;
+}
+.intelexp {
+    text-align: left;
+    height: 224px;
+    font-size: 18px;
+    padding: 15px;
+    color: white;
+    background-color: #1E1E1E;
+}
+.formulario{
+    padding: 100px;
+    height: 573px;
+    text-align: left;
+    background-image: url(Rectangle\ 27.png);
+}
+.borda {
+    height: 48px;
+}
+
+.message {
+    height: 80px;
+    border-radius: 10px;
+    width: 650px;
+}
+.entrecontato {
+    font-size: 60px;
+}
+.loren {
+    font-size: 30px;
+}
+#Enviarcontato {
+    width: 150px;
+    background-color: #006CE1 ;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.inputformulario {
+    border-radius: 10px;
+    width: 650px;
+    height: 40px;
+}
+#singup {
+    background-color: #006CE1 ;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.comprar {
+    height: 40px;
+    color: black;
+    background-color: #F6F6F6;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.h2intel{
+    font-size: 38px;
+}
+#emestoque{
+    color: #1F8C50;
+    text-align: left;
+}
+.preco {
+    text-align: left;
+    font-size: 40px;
+}
+.vermais {
+    text-align: left;
+    color: black;
+}
+a {
+    color: white;
+}
